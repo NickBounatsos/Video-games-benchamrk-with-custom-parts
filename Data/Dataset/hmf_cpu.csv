@@ -1,0 +1,168 @@
+id,manufacturer,model,segment
+60f014a31711b076a37bf24d,Intel,Core i9-11900KF,Desktop
+60f014a31711b076a37bf24c,Intel,Core i9-11900K,Desktop
+60f014a31711b076a37bf24e,Intel,Core i9-11900F,Desktop
+60f014a31711b076a37bf247,Intel,Core i9-11900,Desktop
+60f014a31711b076a37bf250,Intel,Core i7-11700KF,Desktop
+60f014a31711b076a37bf24f,Intel,Core i7-11700K,Desktop
+60f014a31711b076a37bf24a,Intel,Core i7-11700F,Desktop
+60f014a31711b076a37bf248,Intel,Core i7-11700,Desktop
+60f014a31711b076a37bf252,Intel,Core i5-11600KF,Desktop
+60f014a31711b076a37bf251,Intel,Core i5-11600K,Desktop
+60f014a31711b076a37bf249,Intel,Core i5-11600,Desktop
+60f014a31711b076a37bf24b,Intel,Core i5-11500,Desktop
+60f014a31711b076a37bf242,Intel,Core i5-11400F,Desktop
+60f014a31711b076a37bf23f,Intel,Core i5-11400,Desktop
+5fdb5056bf14cc0ff68ceeb9,AMD,Ryzen 9 5950X,Desktop
+5fdb5056bf14cc0ff68ceebb,AMD,Ryzen 9 5900X,Desktop
+5fdb5056bf14cc0ff68ceeba,AMD,Ryzen 7 5800X,Desktop
+5fdb5056bf14cc0ff68ceebc,AMD,Ryzen 5 5600X,Desktop
+5fdb5056bf14cc0ff68ceec2,Intel,Core i9-10850K,Desktop
+60f014a31711b076a37bf233,AMD,Ryzen 7 PRO 4750G,Desktop
+60f014a31711b076a37bf22d,AMD,Ryzen 5 PRO 4650G,Desktop
+5fdb5056bf14cc0ff68ceec7,AMD,Ryzen 9 3900XT,Desktop
+5fdb5056bf14cc0ff68ceec1,AMD,Ryzen 7 3800XT,Desktop
+5fdb5056bf14cc0ff68ceec0,Intel,Core i9-10900KF,Desktop
+5fdb5056bf14cc0ff68ceebe,Intel,Core i9-10900K,Desktop
+60f014a31711b076a37bf23c,Intel,Core i9-10900F,Desktop
+5fdb5056bf14cc0ff68ceeca,Intel,Core i9-10900,Desktop
+5fdb5056bf14cc0ff68ceec4,Intel,Core i7-10700KF,Desktop
+5fdb5056bf14cc0ff68ceec3,Intel,Core i7-10700K,Desktop
+60f014a31711b076a37bf236,Intel,Core i7-10700F,Desktop
+5fdb5056bf14cc0ff68ceed5,Intel,Core i7-10700,Desktop
+5fdb5056bf14cc0ff68ceecd,Intel,Core i5-10600KF,Desktop
+5fdb5056bf14cc0ff68ceec9,Intel,Core i5-10600K,Desktop
+5fdb5056bf14cc0ff68ceedc,Intel,Core i5-10600,Desktop
+5fdb5056bf14cc0ff68ceeeb,Intel,Core i5-10500,Desktop
+5fdb5056bf14cc0ff68cef0c,Intel,Core i5-10400F,Desktop
+5fdb5056bf14cc0ff68cef08,Intel,Core i5-10400,Desktop
+60f014a31711b076a37bf235,Intel,Core i3-10320,Desktop
+60f014a31711b076a37bf232,Intel,Core i3-10300,Desktop
+5fdb5056bf14cc0ff68cef0b,Intel,Core i3-10100,Desktop
+5fdb5056bf14cc0ff68ceed6,AMD,Ryzen 3 3300X,Desktop
+5fdb5056bf14cc0ff68cef09,AMD,Ryzen 3 3100,Desktop
+5fdb5056bf14cc0ff68ceee9,AMD,Ryzen Threadripper 3990X,Desktop
+5fdb5056bf14cc0ff68ceed8,AMD,Ryzen Threadripper 3970X,Desktop
+5fdb5056bf14cc0ff68ceed3,AMD,Ryzen Threadripper 3960X,Desktop
+5fdb5056bf14cc0ff68cefe4,AMD,Athlon 3000G,Desktop
+5fdb5056bf14cc0ff68ceecf,AMD,Ryzen 9 3950X,Desktop
+5fdb5056bf14cc0ff68ceebf,Intel,Core i9-9900KS,Desktop
+5fdb5056bf14cc0ff68ceef1,Intel,Core i9-10980XE,Desktop
+5fdb5056bf14cc0ff68ceef4,Intel,Core i9-10940X,Desktop
+5fdb5056bf14cc0ff68ceee1,Intel,Core i9-10920X,Desktop
+5fdb5056bf14cc0ff68ceefa,Intel,Core i9-10900X,Desktop
+5fdb5056bf14cc0ff68ceeef,AMD,Ryzen 5 3500X,Desktop
+5fdb5056bf14cc0ff68ceed4,AMD,Ryzen 9 3900X,Desktop
+5fdb5056bf14cc0ff68ceece,AMD,Ryzen 7 3800X,Desktop
+5fdb5056bf14cc0ff68ceed9,AMD,Ryzen 7 3700X,Desktop
+5fdb5056bf14cc0ff68ceecc,AMD,Ryzen 5 3600XT,Desktop
+5fdb5056bf14cc0ff68ceedb,AMD,Ryzen 5 3600X,Desktop
+5fdb5056bf14cc0ff68ceeea,AMD,Ryzen 5 3600,Desktop
+5fdb5056bf14cc0ff68cef72,AMD,Ryzen 5 3400G,Desktop
+5fdb5056bf14cc0ff68cefa5,AMD,Ryzen 3 3200G,Desktop
+5fdb5056bf14cc0ff68ceedd,Intel,Core i9-9900,Desktop
+5fdb5056bf14cc0ff68ceee7,Intel,Core i7-9700F,Desktop
+5fdb5056bf14cc0ff68ceee8,Intel,Core i7-9700,Desktop
+5fdb5056bf14cc0ff68cef3b,Intel,Core i3-9100F,Desktop
+5fdb5056bf14cc0ff68ceec8,Intel,Core i9-9900KF,Desktop
+5fdb5056bf14cc0ff68ceed0,Intel,Core i7-9700KF,Desktop
+5fdb5056bf14cc0ff68ceedf,Intel,Core i5-9600KF,Desktop
+5fdb5056bf14cc0ff68cef1f,Intel,Core i5-9400F,Desktop
+60f014a31711b076a37bf237,Intel,Core i3-9350KF,Desktop
+5fdb5056bf14cc0ff68ceefd,Intel,Core i9-9980XE,Desktop
+5fdb5056bf14cc0ff68cef12,Intel,Core i9-9960X,Desktop
+5fdb5056bf14cc0ff68ceeee,Intel,Core i9-9940X,Desktop
+5fdb5056bf14cc0ff68cef27,Intel,Core i9-9920X,Desktop
+5fdb5056bf14cc0ff68cef0a,Intel,Core i9-9900X,Desktop
+5fdb5056bf14cc0ff68ceec6,Intel,Core i9-9900K,Desktop
+5fdb5056bf14cc0ff68ceefe,Intel,Core i7-9800X,Desktop
+5fdb5056bf14cc0ff68ceed1,Intel,Core i7-9700K,Desktop
+5fdb5056bf14cc0ff68ceede,Intel,Core i5-9600K,Desktop
+5fdb5056bf14cc0ff68ceee6,Intel,Core i5-9600,Desktop
+5fdb5056bf14cc0ff68cef0e,Intel,Core i5-9500,Desktop
+5fdb5056bf14cc0ff68cef26,Intel,Core i5-9400,Desktop
+5fdb5056bf14cc0ff68cef22,AMD,Ryzen Threadripper 2920X,Desktop
+5fdb5056bf14cc0ff68cef3d,AMD,Ryzen Threadripper 2970WX,Desktop
+5fdb5056bf14cc0ff68cef42,AMD,Ryzen 5 2500X,Desktop
+5fdb5056bf14cc0ff68cf036,AMD,Athlon 200GE,Desktop
+5fdb5056bf14cc0ff68cef1a,Intel,Core i3-9100,Desktop
+5fdb5056bf14cc0ff68cef45,AMD,Ryzen Threadripper 2990WX,Desktop
+5fdb5056bf14cc0ff68cef1b,AMD,Ryzen Threadripper 2950X,Desktop
+5fdb5056bf14cc0ff68cef4b,AMD,Ryzen 3 2300X,Desktop
+5fdb5056bf14cc0ff68ceecb,Intel,Core i7-8086K,Desktop
+5fdb5056bf14cc0ff68cef32,AMD,Ryzen 7 2700X,Desktop
+5fdb5056bf14cc0ff68cef77,AMD,Ryzen 7 2700,Desktop
+5fdb5056bf14cc0ff68cef35,AMD,Ryzen 5 2600X,Desktop
+5fdb5056bf14cc0ff68cef58,AMD,Ryzen 5 2600,Desktop
+5fdb5056bf14cc0ff68cf08a,Intel,Celeron G4900,Desktop
+60f014a21711b076a37bf208,Intel,Pentium Gold G5500,Desktop
+5fdb5056bf14cc0ff68cef8d,Intel,Pentium Gold G5400,Desktop
+5fdb5056bf14cc0ff68cef1c,Intel,Core i7-8700T,Desktop
+5fdb5056bf14cc0ff68cef91,Intel,Core i5-8500T,Desktop
+5fdb5056bf14cc0ff68cefc2,Intel,Core i5-8400T,Desktop
+5fdb5056bf14cc0ff68cefc3,Intel,Core i3-8100T,Desktop
+5fdb5056bf14cc0ff68cef02,Intel,Core i5-8600,Desktop
+5fdb5056bf14cc0ff68cef23,Intel,Core i5-8500,Desktop
+60f014a21711b076a37bf20f,Intel,Core i3-8300,Desktop
+5fdb5056bf14cc0ff68cefc4,AMD,Ryzen 5 2400G,Desktop
+5fdb5056bf14cc0ff68cefcf,AMD,Ryzen 3 2200G,Desktop
+5fdb5056bf14cc0ff68ceef3,Intel,Core i7-8700,Desktop
+5fdb5056bf14cc0ff68cf197,Intel,Pentium Silver J5005,Desktop
+5fdb5056bf14cc0ff68ceed7,Intel,Core i7-8700K,Desktop
+5fdb5056bf14cc0ff68ceee4,Intel,Core i5-8600K,Desktop
+5fdb5056bf14cc0ff68cef33,Intel,Core i5-8400,Desktop
+5fdb5056bf14cc0ff68ceeed,Intel,Core i3-8350K,Desktop
+5fdb5056bf14cc0ff68cef64,Intel,Core i3-8100,Desktop
+5fdb5056bf14cc0ff68cef18,Intel,Core i9-7920X,Desktop
+5fdb5056bf14cc0ff68cef06,Intel,Core i9-7980XE,Desktop
+5fdb5056bf14cc0ff68cef0d,Intel,Core i9-7960X,Desktop
+5fdb5056bf14cc0ff68cef11,Intel,Core i9-7940X,Desktop
+5fdb5056bf14cc0ff68cef4d,AMD,Ryzen Threadripper 1900X,Desktop
+5fdb5056bf14cc0ff68cef56,AMD,Ryzen Threadripper 1950X,Desktop
+5fdb5056bf14cc0ff68cef50,AMD,Ryzen Threadripper 1920X,Desktop
+5fdb5056bf14cc0ff68cefa9,AMD,Ryzen 3 1300X,Desktop
+5fdb5056bf14cc0ff68cefd8,AMD,Ryzen 3 1200,Desktop
+5fdb5056bf14cc0ff68cf136,AMD,Athlon X4 950,Desktop
+5fdb5056bf14cc0ff68cf175,AMD,A8-9600,Desktop
+5fdb5056bf14cc0ff68cf16a,AMD,A6-9500,Desktop
+5fdb5056bf14cc0ff68cf13c,AMD,A12-9800,Desktop
+5fdb5056bf14cc0ff68cf120,AMD,A10-9700,Desktop
+5fdb5056bf14cc0ff68cef86,AMD,Ryzen 7 PRO 1700X,Desktop
+5fdb5056bf14cc0ff68cefbe,AMD,Ryzen 7 PRO 1700,Desktop
+60f014a21711b076a37bf200,AMD,Ryzen 5 PRO 1500,Desktop
+60f014a21711b076a37bf204,AMD,Ryzen 3 PRO 1300,Desktop
+5fdb5056bf14cc0ff68cef00,Intel,Core i9-7900X,Desktop
+5fdb5056bf14cc0ff68cef03,Intel,Core i7-7820X,Desktop
+5fdb5056bf14cc0ff68cef19,Intel,Core i7-7800X,Desktop
+5fdb5056bf14cc0ff68ceeda,Intel,Core i7-7740X,Desktop
+5fdb5056bf14cc0ff68ceee3,Intel,Core i5-7640X,Desktop
+5fdb5056bf14cc0ff68cef6b,AMD,Ryzen 5 1600X,Desktop
+5fdb5056bf14cc0ff68cef93,AMD,Ryzen 5 1600,Desktop
+5fdb5056bf14cc0ff68cef8c,AMD,Ryzen 5 1500X,Desktop
+5fdb5056bf14cc0ff68ceff2,AMD,Ryzen 5 1400,Desktop
+5fdb5056bf14cc0ff68cef76,AMD,Ryzen 7 1800X,Desktop
+5fdb5056bf14cc0ff68cef8e,AMD,Ryzen 7 1700X,Desktop
+5fdb5056bf14cc0ff68cefc9,AMD,Ryzen 7 1700,Desktop
+5fdb5056bf14cc0ff68cef73,Intel,Pentium G4620,Desktop
+5fdb5056bf14cc0ff68cefba,Intel,Pentium G4600,Desktop
+60f014a01711b076a37bf1ca,Intel,Pentium G4560T,Desktop
+5fdb5056bf14cc0ff68cefcb,Intel,Pentium G4560,Desktop
+5fdb5056bf14cc0ff68cef57,Intel,Core i7-7700T,Desktop
+5fdb5056bf14cc0ff68ceee2,Intel,Core i7-7700K,Desktop
+5fdb5056bf14cc0ff68cef2d,Intel,Core i7-7700,Desktop
+5fdb5056bf14cc0ff68cef7d,Intel,Core i5-7600T,Desktop
+5fdb5056bf14cc0ff68ceef5,Intel,Core i5-7600K,Desktop
+5fdb5056bf14cc0ff68cef30,Intel,Core i5-7600,Desktop
+5fdb5056bf14cc0ff68cefc5,Intel,Core i5-7500T,Desktop
+5fdb5056bf14cc0ff68cef5a,Intel,Core i5-7500,Desktop
+5fdb5056bf14cc0ff68cf008,Intel,Core i5-7400T,Desktop
+5fdb5056bf14cc0ff68cefa6,Intel,Core i5-7400,Desktop
+5fdb5056bf14cc0ff68ceefb,Intel,Core i3-7350K,Desktop
+5fdb5056bf14cc0ff68cef36,Intel,Core i3-7300,Desktop
+5fdb5056bf14cc0ff68cefad,Intel,Core i3-7100T,Desktop
+5fdb5056bf14cc0ff68cef6c,Intel,Core i3-7100,Desktop
+5fdb5056bf14cc0ff68cf088,Intel,Celeron G3930,Desktop
+5fdb5056bf14cc0ff68cef62,Intel,Core i7-6950X,Desktop
+5fdb5056bf14cc0ff68cef34,Intel,Core i7-6900K,Desktop
+5fdb5056bf14cc0ff68cef59,Intel,Core i7-6850K,Desktop
+5fdb5056bf14cc0ff68cef61,Intel,Core i7-6800K,Desktop
